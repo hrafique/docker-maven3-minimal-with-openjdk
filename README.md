@@ -7,7 +7,7 @@ because of potential licensing issues when using an unattended install).
 
 You can test it out by issuing:
 ```
-docker run hrafique/maven3-minimal-with-openjdk mvn -version
+docker run hrafique/maven3-minimal-openjdk mvn -version
 ```
 which should give output similar to:
 ```
